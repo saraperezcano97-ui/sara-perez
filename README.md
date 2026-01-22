@@ -16,11 +16,9 @@ Actualmente trabajo en el Departamento Técnico de Isotérmica y curso el Máste
 
 ### Herramientas y tecnologías
 - Python (en aprendizaje)
-- SQL (en aprendizaje)
 - Excel
 - Tableau
 
 📫 LinkedIn: https://www.linkedin.com/in/tu-linkedin
 
 
-📫 LinkedIn: https://www.linkedin.com/in/tu-linkedin
